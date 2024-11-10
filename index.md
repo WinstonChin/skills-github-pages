@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+About Me: Welcome to my blog
 ---
 I am Winston
